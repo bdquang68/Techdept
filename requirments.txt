@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openai
+PyPDF2
+python-docx
+python-pptx
+faiss-cpu      # nếu cài gặp lỗi, xem phần Troubleshooting
+annoy
+scikit-learn
+tqdm
